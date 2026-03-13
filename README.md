@@ -1,4 +1,5 @@
 # Flappy Wyvern
+Built with Godot 4.6
 
 A retro-inspired reimagining of the classic "Flappy Bird" mechanic, built using the **Godot Engine**. This project replaces the colorful pipes and birds of the original with the dark, pixelated aesthetic of 90's dungeon crawlers.
 
@@ -17,7 +18,7 @@ This project was developed using **Godot’s 2D physics engine**, signal managem
 * **Score System:** Keeps track of your run to know your "glory."
 
 ## Built With
-* [Godot Engine](https://godotengine.org/) (v4.x)
+* [Godot Engine](https://godotengine.org/) (v4.6)
 * GDScript
 
 ## Getting Started
@@ -28,7 +29,7 @@ To run or edit this project, you will need the **Godot Engine** (Standard or .NE
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Flappy-Daggerfall.git](https://github.com/YourUsername/Flappy-Daggerfall.git)
+    git clone [https://github.com/gsewalt/flappywyvern.git](https://github.com/gsewalt/flappywyvern.git)
     ```
 2.  **Open Godot:**
     * Launch the Godot Project Manager.
